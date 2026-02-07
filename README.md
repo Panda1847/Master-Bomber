@@ -1,4 +1,11 @@
-<h1 align="center">Master-Bomber</h1>
+# Master-Bomber
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Panda1847/Master-Bomber)](https://github.com/Panda1847/Master-Bomber/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Panda1847/Master-Bomber)](https://github.com/Panda1847/Master-Bomber/network)
+[![GitHub issues](https://img.shields.io/github/issues/Panda1847/Master-Bomber)](https://github.com/Panda1847/Master-Bomber/issues)
+[![Language](https://img.shields.io/badge/language-Python-blue.svg)](https://github.com/Panda1847/Master-Bomber)
+
 
 <p align="center">
   <img src="https://github.com/navin-hariharan/Master-Bomber/blob/master/MASTERBOMBER.png"><br>
